@@ -15,7 +15,7 @@ Ensure you have the following libraries installed:
 pip install pandas numpy matplotlib seaborn nltk scikit-learn
 ```
 
-**Usage Instructions:**
+## Usage Instructions:
 1. **Data Preprocessing:**
    - Loaded the tweet sentiment dataset and assigned appropriate column names.
    - Simplified the sentiment labels for easier analysis.
@@ -32,6 +32,6 @@ pip install pandas numpy matplotlib seaborn nltk scikit-learn
    - Vectorized the tweet text using CountVectorizer.
    - Trained a Logistic Regression model to classify sentiments and evaluated model performance using a classification report.
 
-**Results:**
+## Results:
 The classification report provides insights into the model's accuracy, precision, recall, and F1-score for each sentiment class.
 
