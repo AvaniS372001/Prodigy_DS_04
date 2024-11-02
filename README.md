@@ -1,7 +1,5 @@
 # Prodigy_DS_04
 
-### Suggested Content for README File
-
 **Project Title:** Tweet Sentiment Analysis
 
 **Project Overview:**
