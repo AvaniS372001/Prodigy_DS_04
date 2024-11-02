@@ -1,6 +1,6 @@
 # Prodigy_DS_04
 
-**Project Title:** Tweet Sentiment Analysis
+# Tweet Sentiment Analysis
 
 **Project Overview:**
 This project analyzes sentiments expressed in tweets using the VADER sentiment analysis tool and a Logistic Regression model. The goal is to classify sentiments as positive, neutral, or negative based on the text of the tweets.
